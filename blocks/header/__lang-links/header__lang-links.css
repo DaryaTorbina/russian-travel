@@ -1,0 +1,22 @@
+.header__lang-links {
+    padding: 0;
+    color: #fff;
+    text-decoration: none;
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0em; 
+}
+
+@media (max-width:320px) {
+    .header__lang-links {
+        font-size: 18px;
+        line-height: 20px;
+        margin-bottom: 0;
+    }
+}
