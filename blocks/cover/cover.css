@@ -1,7 +1,6 @@
 .cover{
     background-image: url("../../images/cover-trains/cover-trains.jpg");
     display: flex;
-   
     background-size: cover;
     color: #fff;
     text-decoration: none;
@@ -19,7 +18,7 @@
     height: 100%;
     position: absolute;
     background: black;
-    opacity: 0.3 ;
+    opacity: 0.3;
     left:0;
     top:0;
     z-index: -1;
