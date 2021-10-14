@@ -1,0 +1,8 @@
+.header__lang-link-active {
+    color: #fff;
+}
+
+.header__lang-link-active:first-child {
+    color: #fff;
+    margin-right: 18px;
+}
