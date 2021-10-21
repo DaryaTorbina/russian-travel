@@ -32,7 +32,7 @@
 
 @media (min-width: 1280px) {
   .footer__links-list {
-    margin-left: 0;
+    margin-right: 0;
     margin-left: 0;
     flex-direction: row;
   }
