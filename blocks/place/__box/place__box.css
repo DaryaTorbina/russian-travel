@@ -1,11 +1,11 @@
 .place__box {
-	display: flex;
-	flex-direction: column;
+  display: flex;
+  flex-direction: column;
   justify-content: flex-end;
 }
 
-@media (max-width: 768px) {
-	.place__box {
-      padding-left: 16px;
-	}
+@media (max-width: 320px) {
+  .place__box {
+    padding-left: 16px;
+  }
 }

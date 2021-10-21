@@ -1,11 +1,10 @@
 .lead {
-    margin: 0 auto;
-    max-width: 984px;
+  margin: 0 auto;
+  min-width: 320px;
 }
 
-
-@media (max-width:320px) {
-    .lead {
-        max-width: 320px;
-    }
+@media (max-width: 320px) {
+  .lead {
+    max-width: 320px;
+  }
 }
