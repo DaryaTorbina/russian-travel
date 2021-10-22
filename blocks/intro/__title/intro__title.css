@@ -22,14 +22,6 @@
     padding-left: 24px;
   }
 }
-@media (min-width: 1024px) {
-  .intro__title {
-    font-size: 54px;
-    line-height: 1.07;
-    padding-top: 90px;
-    padding-left: 24px;
-  }
-}
 
 @media (min-width: 1280px) {
   .intro__title {

@@ -8,11 +8,11 @@
   padding: 0 48px;
 }
 
-@media (max-width: 320px) {
+@media (min-width: 320px) {
   .photo-grid {
     grid-template-columns: repeat(auto-fit, minmax(288px, 1fr));
     grid-gap: 12px;
-    max-width: 288px;
+    /*max-width: 288px;*/
     padding-left: 16px;
     padding-right: 16px;
     margin-top: 64px;
@@ -24,6 +24,7 @@
     grid-template-columns: repeat(auto-fit, minmax(352px, 1fr));
     margin-top: 88px;
     padding: 0 24px;
+    gap: 16px;
   }
 }
 
@@ -39,8 +40,6 @@
 @media (min-width: 1280px) {
   .photo-grid {
     grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
-    margin-top: 92px; /*92*/
-    padding: 0 48px;
     gap: 16px;
   }
 }

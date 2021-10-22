@@ -21,11 +21,11 @@
 
 @media (min-width: 1024px) {
   .place__url {
-    margin-bottom: 12px;
+    margin-bottom: 10px;
   }
 }
 @media (min-width: 1280px) {
   .place__url {
-    margin-bottom: 11px;
+    margin-bottom: 8px;
   }
 }

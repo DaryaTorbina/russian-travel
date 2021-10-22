@@ -13,14 +13,13 @@
 
 @media (min-width: 768px) {
   .places {
-    margin-top: 88px;
+    margin-top: 92px;
     padding: 0 24px;
   }
 }
 
 @media (min-width: 1024px) {
   .places {
-    margin-top: 92px;
     padding: 0 48px;
   }
 }
