@@ -1,0 +1,13 @@
+.header__list {
+  font-size: 24px;
+}
+.header__list:last-child {
+  margin-left: 18px;
+}
+
+@media (max-width: 320px) {
+  .header__list {
+    font-size: 18px;
+    line-height: 20px;
+  }
+}
